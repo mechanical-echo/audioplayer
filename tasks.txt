@@ -1,0 +1,23 @@
+- add music             done
+- read id3              done
+- save id3              done
+- sort playlist         done
+- stats                 done
+- recomend by genre      
+- search                
+
+
+
+
+Jāizstrādā vienkāršota mūzikas atskaņošanas aplikācija.
+Kurā iespējams:
+- pievienot/noņemt mūzikas failus (mp3);
+- failu ielādes brīdī nolasīt un saglabāt mp3 failu metadatus ar ID3 bibliotēku (piemērs:
+https://github.com/Owen-oj/laravel-getid3);
+- kārtot mūzikas failus atskaņošanas sarakstos;
+- ievākt dažādu statistiku;
+- balstoties uz klausītāja atskaņotajām dziesmām un to metadatiem, piedāvāt līdzīgas
+dziesmas atskaņošanai no jau pieveinotājam;
+- meklēt audio failus, pēc dažādiem kritērijiem.
+Aplikācija jāizstrādā lai tā darbotos bez lapas pārlādes (izņemot faila augšupielāde).
+Jāizveido aplikācijas vizuālais noformējums, balstoties uz dizaina skici (wireframe).
