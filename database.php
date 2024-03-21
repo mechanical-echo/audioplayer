@@ -1,7 +1,8 @@
 <?php
-$s_username = 'root';
-$s_password = '';
-$db = 'audio_db';
+//Dokkaebi_4759
+$s_username = "grobina1_dislovaja";
+$s_password = "ibmdOBZ@2";
+$db = "grobina1_dislovaja";
 
 $connection = new mysqli('localhost', $s_username, $s_password, $db) or die("Unable to connect");
 
